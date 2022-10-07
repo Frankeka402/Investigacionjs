@@ -1,3 +1,8 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
   background: lightgray;
 }
@@ -9,4 +14,14 @@ body {
 }
 
 .article {
+}
+
+header {
+  background: #ffffff;
+  height: 100px;
+  width: 100%;
+  margin: 0px;
+  text-align: center;
+  color: black;
+  border-bottom: 3px dashed black;
 }
